@@ -2,3 +2,5 @@ print ("hello world")
 print ("good morning")
 int d=9
 print(d)
+int e=7
+print(d+e)
