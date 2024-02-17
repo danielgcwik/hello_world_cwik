@@ -1,2 +1,4 @@
 print ("hello world")
 print ("good morning")
+int d=9
+print(d)
